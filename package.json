@@ -1,0 +1,26 @@
+{
+  "name": "csv-to-json",
+  "version": "1.0.0",
+  "description": "npm module to inter-convert common data storage files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m11dedhia/csv-to-json.git"
+  },
+  "keywords": [
+    "csv",
+    "json",
+    "csv-to-json",
+    "convert",
+    "data"
+  ],
+  "author": "Megh Dedhia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m11dedhia/csv-to-json/issues"
+  },
+  "homepage": "https://github.com/m11dedhia/csv-to-json#readme"
+}
