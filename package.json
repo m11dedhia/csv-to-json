@@ -1,5 +1,5 @@
 {
-  "name": "csv-to-json",
+  "name": "def-converter",
   "version": "1.0.0",
   "description": "npm module to inter-convert common data storage files",
   "main": "index.js",
@@ -15,7 +15,8 @@
     "json",
     "csv-to-json",
     "convert",
-    "data"
+    "data",
+    "def-converter"
   ],
   "author": "Megh Dedhia",
   "license": "ISC",
